@@ -1,6 +1,6 @@
 # React code-snippets
 
-We're to save your time, use us!
+We're here to save your time, use us!
 
 
 ## SlideShow 
